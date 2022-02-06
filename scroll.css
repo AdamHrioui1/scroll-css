@@ -20,7 +20,7 @@
     cursor: pointer;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #000;
+    background: #222;
     border-radius: 3px;
     cursor: pointer;
 }
