@@ -15,7 +15,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: var(--blue-sky-color);
+    background: #000;
     border: 1px solid #000;
     cursor: pointer;
 }
