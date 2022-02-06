@@ -20,7 +20,7 @@
     cursor: pointer;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--black-blue-sky-color);
+    background: #000;
     border-radius: 3px;
     cursor: pointer;
 }
