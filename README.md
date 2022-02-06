@@ -1,2 +1,2 @@
 # scroll-css
-grou
+group
